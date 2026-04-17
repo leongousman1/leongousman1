@@ -4,19 +4,20 @@
 
 - <b>Software & Systems</b>
   - [Praciting Data & Algorithms in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Machine Learning Workflows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Applied ML & Model Integration</b>
-  - [Machine Learning Workflows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Hugging Face NLP Fine‑Tuning + Gradio Demo](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [TensorFlow Deep Learning Labs](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [PyTorch Computer Vision & Transfer Learning](https://github.com/joshmadakor1/AD_PS)
 - <b>Intelligent AI Systems</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [RAG Knowledge Assistant (LangChain + Vector DB)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [LangGraph Multi‑Step AI Workflow](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Scalable AI Deployment</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Containerized RAG API (FastAPI + Docker + Azure)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [AI Support Copilot Microservice](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Evaluation, LLMOps & Optimization</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [DeepEval Evaluation Suite for RAG Assistant](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [LLMOps Experiments & Cost Optimization](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
