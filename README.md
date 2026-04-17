@@ -3,7 +3,7 @@
 <h2> 🤖 AI & Machine Learning Projects:</h2>
 
 - <b>Software & Systems</b>
-  - [Praciting Data & Algorithms in Python](https://github.com/leongousman1/Python-Lab/blob/main/README.md)
+  - [Praciting Data & Algorithms in Python](https://github.com/leongousman1/Python-Lab)
   - [Machine Learning Workflows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Applied ML & Model Integration</b>
   - [Hugging Face NLP Fine‑Tuning + Gradio Demo](https://github.com/joshmadakor1/Sentinel-Lab)
